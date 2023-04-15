@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="quick_silver">#B7B7B7</color>
+
+    <color name="cultured_item">#F7F7F7</color>
+    <color name="backgroundItem2">#FFFFFFFF</color>
+    <color name="green">#00C980</color>
+    <color name="may_green">#43A047</color>
+    <color name="yellow">#FFC114</color>
+    <color name="red">#FF4646</color>
+    <color name="darkGray">#4B4B4B</color>
+    <color name="cultured">#F4F4F4</color>
+    <color name="cultured2">#F7F7F7</color>
+    <color name="gray">#7B7B7B</color>
+    <color name="gray90">#666666</color>
+    <color name="lightGray">#E6E6E6</color>
+    <color name="carmine_pink">#DB4C3E</color>
+    <color name="vivid_tangelo">#E67E22</color>
+    <color name="rajah">#fcc060</color>
+    <color name="international_orange">#C42B23</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="transparent">#1E000000</color>
+    <color name="yankeesBlue">#252C39</color>
+    <color name="chineseBlack">#121212</color>
+    <color name="eerieBlack">#1F1F1F</color>
+    <color name="chineseOrange">#F46B45</color>
+    <color name="bg_search">#F1F2F4</color>
+
+
+
+
+
+    <color name="background_color">#FFFFFFFF</color>
+    <color name="cultured_background">#F7F8FA</color>
+    <color name="cultured_background2">#F4F4F4</color>
+    <color name="yankee_background">#252C39</color>
+    <color name="yankee_backgroundBlack">#252C39</color>
+    <color name="background_color2">#FFFFFFFF</color>
+    <color name="carmineGradiant">#E74C3C</color>
+    <color name="international_orange_gradiant">#C42B23</color>
+    <color name="text_color">#4B4B4B</color>
+    <color name="bg_text_color">#4B4B4B</color>
+    <color name="text_color_hint">#7B7B7B</color>
+    <color name="backgroundItem">#FFFFFFFF</color>
+    <color name="iconColor">#9E9FB1</color>
+    <color name="grayWhite">#7B7B7B</color>
+    <color name="blackWhite">#FF000000</color>
+    <color name="whiteBlack">#FFFFFF</color>
+    <color name="textDarkGrayCul">#4B4B4B</color>
+    <color name="bg_tuition_register">#F7F7F7</color>
+    <color name="txt_tuition_register">#7B7B7B</color>
+    <color name="cal_bg">#FFFFFFFF</color>
+    <color name="presence_bg">#4B4B4B</color>
+
+    <color name="button_save">#F4F4F4</color>
+
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#7B7B7B</color>
+
+</resources>
