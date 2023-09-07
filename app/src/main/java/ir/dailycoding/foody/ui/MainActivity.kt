@@ -1,4 +1,4 @@
-package ir.dailycoding.foody
+package ir.dailycoding.foody.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.google.android.material.navigation.NavigationView
+import ir.dailycoding.foody.R
 import ir.dailycoding.foody.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

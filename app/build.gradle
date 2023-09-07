@@ -11,7 +11,7 @@ plugins {
 
 android {
     namespace 'ir.dailycoding.foody'
-    compileSdk 33
+    compileSdk 34
     dataBinding {
         enabled = true
     }
@@ -22,7 +22,7 @@ android {
     defaultConfig {
         applicationId "ir.dailycoding.foody"
         minSdk 24
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
@@ -45,9 +45,9 @@ android {
 }
 
 dependencies {
-    def nav_version = "2.5.3"
+    def nav_version = "2.7.1"
     def lifecycle_version = "2.6.0-alpha02"
-    def room_version = "2.5.1"
+    def room_version = "2.5.2"
     //noinspection GradleDependency
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
     //noinspection GradleDependency
@@ -66,8 +66,8 @@ dependencies {
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
 
 
-    ksp 'androidx.room:room-compiler:2.5.1'
-    implementation "androidx.room:room-ktx:2.5.1"
+    ksp 'androidx.room:room-compiler:2.5.2'
+    implementation "androidx.room:room-ktx:2.5.2"
     implementation "androidx.room:room-runtime:$room_version"
 
 
@@ -91,9 +91,9 @@ dependencies {
 
     implementation 'org.jsoup:jsoup:1.15.3'
 
-    implementation 'androidx.core:core-ktx:1.10.0'
+    implementation 'androidx.core:core-ktx:1.10.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'com.google.android.material:material:1.8.0'
+    implementation 'com.google.android.material:material:1.9.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
